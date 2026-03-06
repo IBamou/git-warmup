@@ -5,3 +5,4 @@
 - Mastering Backend concepts.
 - Learning working with laravel and databases.
 - Learning soft skills and team work.
+I prefer Node.js for the backend

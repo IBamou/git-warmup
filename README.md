@@ -6,3 +6,4 @@
 - Learning working with laravel and databases.
 - Learning soft skills and team work.
 - i prefer phpj
+I prefer Node.js for the backend
